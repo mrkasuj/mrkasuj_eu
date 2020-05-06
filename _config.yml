@@ -1,5 +1,5 @@
 # main text of home
-name: x
+name: Kamil
 bio: x
 
 # twitter summary info
@@ -35,22 +35,22 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+twitter: mrkasuj
+instagram: mrkasuj
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: kamilsujecki
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: mrkasuj
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+#email: myemail@gmail.com
 
 authors:
   johndoe:
