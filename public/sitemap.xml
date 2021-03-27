@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://mrkasuj.eu/categories/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://mrkasuj.eu/posts/day0/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://mrkasuj.eu/categories/development/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mrkasuj.eu/tags/goals/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mrkasuj.eu/categories/golang/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mrkasuj.eu/tags/learning/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mrkasuj.eu/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mrkasuj.eu/posts/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mrkasuj.eu/tags/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url>
 </urlset>
