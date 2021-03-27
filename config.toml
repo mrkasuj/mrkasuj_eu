@@ -1,0 +1,38 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+theme = "hugo-theme-nix"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+[params]
+#  Name = "Kamil"
+  HeaderUsername = "mrkasuj"
+  HeaderHostname = "macosx"
+#  About = "my info"
+#  ProfilePicture = "IMG_0176.JPG"
+  FacebookID = "mrkasuj"
+  GithubID = "mrkasuj"
+  InstagramID = "mrkasuj"
+  LinkedInID = "kamilsujecki"
+  TwitterID = "mrkasuj"
+[menu]
+  [[menu.header]]
+    identifier = "post"
+    name = "posts"
+    weight = 0
+  [[menu.header]]
+    parent = "post"
+    name = "All Posts"
+    url = "/posts"
+  [[menu.header]]
+    parent = "post"
+    name = "categories"
+    url = "/categories"
+  [[menu.header]]
+    parent = "post"
+    name = "tags"
+    url = "/tags"
