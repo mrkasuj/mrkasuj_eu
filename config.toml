@@ -1,41 +1,47 @@
-baseURL = "http://mrkasuj.eu/"
-languageCode = "en-us"
+baseurl = "https://mrkasuj.eu"
+languageCode = "en"
 title = "my learning notes"
-
 theme = "kiss"
+#copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
+#disqusShortname = "shortname"
+#googleAnalytics = ""
+Paginate = 5 # Number of posts per page
+enableRobotsTXT = true
 
-name = "Kiss"
-license = "MIT"
-licenselink = "https://github.com/ribice/kiss/master/LICENSE.md"
-description = "Stupidly simple Hugo blogging theme"
-homepage = "https://www.ribice.ba/hugo-kiss/"
-tags = [
-  "blog",
-  "minimal",
-  "minimalist",
-  "responsive"
-]
-features = [
-  "accessibility",
-  "analytics",
-  "comments",
-  "cover-image",
-  "favicon",
-  "multilingual",
-  "opengraph",
-  "pagination",
-  "shortcodes",
-  "single-column",
-  "social-menu",
-  "syntax-highlighting",
-]
-min_version = 0.28
+[params.assets]
+customCSS = ["css/custom.css"]
 
-[author]
-  name = "ribice"
-  homepage = "https://ribice.ba"
+[params.info]
+#adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = false # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
+taxonomiesCount = true # Add taxonomies count
 
-[original]
-  name = "hemingway"
-  homepage = "http://tanksuzuki.com"
-  repo = "https://github.com/tanksuzuki/hemingway"
+[params.features]
+disqusOnDemand = true  # Load Disqus comments on click
+
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
+
+[params.social]
+twitter = "mrkasuj"
+github = "mrkasuj"
+linkedin = "kamilsujecki"
+facebook = "mrkasuj"
+instagram = "mrkasuj"
+
+
+[params.social.config]
+platforms = ["github","facebook","twitter","instagram","linkedin"]
+
+[taxonomies]
+tag ="tags"
