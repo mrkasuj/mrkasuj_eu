@@ -1,9 +1,3 @@
-baseURL = "http://mrkasuj.eu/"
-languageCode = "en-us"
-title = "my learning notes"
-
-theme = "kiss"
-
 name = "Kiss"
 license = "MIT"
 licenselink = "https://github.com/ribice/kiss/master/LICENSE.md"
