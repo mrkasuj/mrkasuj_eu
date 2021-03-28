@@ -1,17 +1,12 @@
-+++
-title = "Day 0"
-description = "starting my learning blog"
-tags = [
-    "learning",
-    "goals",
-]
-date = "2021-03-27"
-categories = [
-    "learning",
-    "goals",
-]
-menu = "main"
-+++
+---
+author: "mrkasuj"
+date: 2021-03-27
+menu:
+  main:
+    parent: tutorials
+title: Day 0 - playing with Github, Hugo
+---
+
 
 ## Day 0
 
