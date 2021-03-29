@@ -3,7 +3,7 @@ author: "mrkasuj"
 date: 2021-03-27
 menu:
   main:
-    parent: tutorials
+    parent: blog
 title: Day 0 - playing with Github, Hugo
 ---
 

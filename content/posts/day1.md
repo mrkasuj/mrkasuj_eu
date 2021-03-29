@@ -3,7 +3,7 @@ author: "mrkasuj"
 date: 2021-03-28
 menu:
   main:
-    parent: tutorials
+    parent: blog
 title: Day 1 - playing with Github, Hugo and Kiss theme
 ---
 
