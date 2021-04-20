@@ -1,6 +1,6 @@
 ---
 author: "mrkasuj"
-date: 2021-04-10
+date: 2021-04-14
 menu:
   main:
     parent: resources
@@ -39,3 +39,7 @@ _[The Pomodoro Technique](https://todoist.com/pl/productivity-methods/pomodoro-t
 | 2021-04-08 |  |
 | 2021-04-09 |  |
 | 2021-04-10 |  |
+| 2021-04-11 |  |
+| 2021-04-12 |  |
+| 2021-04-13 |  |
+| 2021-04-14 |  |
